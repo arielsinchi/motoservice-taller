@@ -1,56 +1,74 @@
 export const reviews = [
   {
-    name: "Juan Manuel Pioto",
+    name: "Alfredo Rudaz",
     rating: 5,
-    text: "Excelente servicio, muy buena atención y excelentes precios. Recomendable 100%",
-    date: "hace 2 meses"
+    text: "Muy Buena atencion, recomendable. Gran trabajo y servicio.",
+    date: "hace un año"
   },
   {
-    name: "Dario Ramirez",
+    name: "Noelia Fabiana Luz Martínez", 
     rating: 5,
-    text: "Excelente atención y profesionalismo. Recomendado.",
-    date: "hace 6 meses"
+    text: "Gracias por tu trabajo! ! Excelente atención!!! Recomendable 100%",
+    date: "hace un año"
   },
   {
-    name: "Agustin Fasan",
+    name: "Flavia Herrera",
     rating: 5,
-    text: "Muy buena atención, respetan los horarios acordados.",
-    date: "hace 1 año"
+    text: "Muy buena atencion!! Excelente trabajo!! Lo que hiciste con mi moto la verdad un genio!! Gracias por tu trabajo.. y ademas exelente precio!! 🙌 ree recomendable!!",
+    date: "hace un año"
   },
   {
-    name: "Lucas Martinez",
+    name: "Federico Wullschleger",
     rating: 5,
-    text: "Gran trabajo en mi moto. El servicio fue rápido y el precio justo. Volveré sin dudas.",
-    date: "hace 3 meses"
+    text: "Un lujo todo. Excelente tipo como persona y mecánico.. hice una permuta con dicho señor y un espectáculo todo. Cómo mecánico un lujo.. como persona una maravilla. 100% recomendable. No se van a arrepentir.",
+    date: "hace un año"
   },
   {
-    name: "Maria González",
-    rating: 4,
-    text: "Muy profesionales en su trabajo. La moto quedó funcionando perfectamente.",
-    date: "hace 4 meses"
+    name: "Leandro Godoy",
+    rating: 5, 
+    text: "Muy buena atención y mi moto quedo de 10 segui así cabeza 👏🏾",
+    date: "hace un año"
   },
   {
-    name: "Roberto Sanchez",
+    name: "Leandro Alegre",
     rating: 5,
-    text: "Excelente trato al cliente y muy buenos resultados. Lo recomiendo totalmente.",
-    date: "hace 2 meses"
+    text: "excelente atencion y servicio. llevé mi dos motos a service y repariones y muy recomendable. recomiendo este taller",
+    date: "hace un año"
   },
   {
-    name: "Carlos Rodriguez",
+    name: "Noelia Martinez",
     rating: 5,
-    text: "Servicio de primera calidad. Conocen muy bien su trabajo y los precios son razonables.",
-    date: "hace 5 meses"
+    text: "Muy buena atención. Asesoramiento y mantenimiento de motos. Trabajo serio y presupuesto acorde. 👍🏻👍🏻",
+    date: "hace un año"
   },
   {
-    name: "Ana Silva",
+    name: "Ariel Gimenez",
     rating: 5,
-    text: "Me solucionaron un problema eléctrico que otros talleres no pudieron. Muy conformes.",
-    date: "hace 1 mes"
+    text: "Gracias Ema por tu trabajo! Siempre atento a tus clientes.",
+    date: "hace un año"
   },
   {
-    name: "Pedro Gomez",
+    name: "Gaston Gauna",
     rating: 5,
-    text: "Reparación perfecta y en el tiempo prometido. Muy recomendable.",
-    date: "hace 3 meses"
+    text: "Muy buena atención, excelente servis.",
+    date: "hace un año"
+  },
+  {
+    name: "Gabriela Albrecht",
+    rating: 5,
+    text: "Les recomiendo. Buen servicio",
+    date: "hace 8 meses"
+  },
+  {
+    name: "Fabian Cian",
+    rating: 5,
+    text: "Muy buena atención y muy buen precio por el laburo",
+    date: "hace un año"
+  },
+  {
+    name: "Tomas Alvarez",
+    rating: 5,
+    text: "Exelente atención, muy rápido el arregló, muy recomendable!",
+    date: "hace un año"
   }
 ]
